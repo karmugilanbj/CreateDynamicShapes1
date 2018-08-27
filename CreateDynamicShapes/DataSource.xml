@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<shapes>
+  <shape>
+    <shapeid>1</shapeid>
+    <shapeName>Isoceles Triangle</shapeName>
+  </shape>
+  <shape>
+    <shapeid>2</shapeid>
+    <shapeName>Square</shapeName>
+  </shape>
+  <shape>
+    <shapeid>3</shapeid>
+    <shapeName>Scalene Triangle</shapeName>
+  </shape>
+  <shape>
+    <shapeid>4</shapeid>
+    <shapeName>Parallelogram</shapeName>
+  </shape>
+  <shape>
+    <shapeid>5</shapeid>
+    <shapeName>Equilateral Triangle</shapeName>
+  </shape>
+  <shape>
+    <shapeid>6</shapeid>
+    <shapeName>Pentagon</shapeName>
+  </shape>
+  <shape>
+    <shapeid>7</shapeid>
+    <shapeName>Rectangle</shapeName>
+  </shape>
+  <shape>
+    <shapeid>8</shapeid>
+    <shapeName>Hexagon</shapeName>
+  </shape>
+  <shape>
+    <shapeid>9</shapeid>
+    <shapeName>Heptagon</shapeName>
+  </shape>
+  <shape>
+    <shapeid>10</shapeid>
+    <shapeName>Octagon</shapeName>
+  </shape>
+  <shape>
+    <shapeid>11</shapeid>
+    <shapeName>Circle</shapeName>
+  </shape>
+  <shape>
+    <shapeid>12</shapeid>
+    <shapeName>Oval</shapeName>
+  </shape>
+ <!--<shape value="1">Isoceles Triangle</shape>
+<shape value="2">Square</shape>
+<shape value="3">Scalene Triangle</shape>
+<shape value="4">Parallelogram</shape>
+<shape value="5">Equilateral Triangle</shape>
+<shape value="6">Pentagon</shape>
+<shape value="7">Rectangle</shape>
+<shape value="8">Hexagon</shape>
+<shape value="9">Heptagon</shape>
+<shape value="10">Octagon</shape>
+<shape value="11">Circle</shape>
+<shape value="12">Oval</shape>-->
+</shapes>
